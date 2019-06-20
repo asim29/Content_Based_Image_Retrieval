@@ -1,0 +1,6 @@
+#Folders that contain Dataset
+Dataset/
+Smaller_Dataset/
+
+#Jupyter Notebook Files
+.ipynb_checkpoints/
