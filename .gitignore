@@ -4,3 +4,10 @@ Smaller_Dataset/
 
 #Jupyter Notebook Files
 .ipynb_checkpoints/
+
+#Vocabulary/Feature Files
+Vocab/
+*.npy
+
+#LaTex Report for Project
+LaTex_Report/
